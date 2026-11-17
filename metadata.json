@@ -1,0 +1,8 @@
+{
+  "name": "AgriPulse Operations Suite",
+  "description": "Precision agriculture platform combining leaf disease diagnostics, mandi price forecasting, soil-based crop recommendations, and WebSocket-driven smart irrigation control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
